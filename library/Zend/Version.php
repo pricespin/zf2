@@ -22,7 +22,6 @@
  * @namespace
  */
 namespace Zend;
-
 /**
  * Class to store and retrieve the version of Zend Framework.
  *
